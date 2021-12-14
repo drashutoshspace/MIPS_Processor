@@ -1,0 +1,13 @@
+compile_order = [
+  "$PSRCDIR/sources_1/new/mux_2to1_32bit.v",
+  "$PSRCDIR/sources_1/new/mux_2to1_5bit.v",
+  "$PSRCDIR/sources_1/new/Sign_Extend.v",
+  "$PSRCDIR/sources_1/new/ALU.v",
+  "$PSRCDIR/sources_1/new/ALU_Control.v",
+  "$PSRCDIR/sources_1/new/Data_Memory.v",
+  "$PSRCDIR/sources_1/new/Register_File.v",
+  "$PSRCDIR/sources_1/new/Control_Unit.v",
+  "$PSRCDIR/sources_1/new/Instruction_Memory.v",
+  "$PSRCDIR/sources_1/new/PC.v",
+  "$PSRCDIR/sources_1/new/MIPS.v",
+]

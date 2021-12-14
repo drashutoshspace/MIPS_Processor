@@ -1,0 +1,75 @@
+VCD info: dumpfile mips_waveform.vcd opened for output.
+========================================
+MIPS Processor Simulation Started
+========================================
+Time: 0
+
+--- TEST CASE 1: Reset Sequence ---
+Reset released at time 15000
+
+--- TEST CASE 2: Instruction Execution ---
+Cycle 1: PC=00000000, Instruction=20020005
+Cycle 2: PC=00000004, Instruction=2003000c
+Cycle 3: PC=00000008, Instruction=2067fff7
+Cycle 4: PC=0000000c, Instruction=00e22025
+Cycle 5: PC=00000010, Instruction=00642824
+Cycle 6: PC=00000014, Instruction=00a42820
+Cycle 7: PC=00000018, Instruction=10a7000a
+Cycle 8: PC=0000001c, Instruction=0064202a
+Cycle 9: PC=00000020, Instruction=10800001
+Cycle 10: PC=00000028, Instruction=00e2202a
+Cycle 11: PC=0000002c, Instruction=00853820
+Cycle 12: PC=00000030, Instruction=00e23822
+Cycle 13: PC=00000034, Instruction=ac670044
+Cycle 14: PC=00000038, Instruction=8c020050
+Cycle 15: PC=0000003c, Instruction=08000011
+Cycle 16: PC=00000044, Instruction=ac020054
+Cycle 17: PC=00000048, Instruction=08000012
+Cycle 18: PC=00000048, Instruction=08000012
+Cycle 19: PC=00000048, Instruction=08000012
+Cycle 20: PC=00000048, Instruction=08000012
+
+--- TEST CASE 3: Register File State ---
+Register $2 = 00000007
+Register $3 = 0000000c
+Register $4 = 00000001
+Register $5 = 0000000b
+Register $7 = 00000007
+Cycle 21: PC=00000048, Instruction=08000012
+Cycle 22: PC=00000048, Instruction=08000012
+Cycle 23: PC=00000048, Instruction=08000012
+Cycle 24: PC=00000048, Instruction=08000012
+Cycle 25: PC=00000048, Instruction=08000012
+Cycle 26: PC=00000048, Instruction=08000012
+Cycle 27: PC=00000048, Instruction=08000012
+Cycle 28: PC=00000048, Instruction=08000012
+Cycle 29: PC=00000048, Instruction=08000012
+Cycle 30: PC=00000048, Instruction=08000012
+Cycle 31: PC=00000048, Instruction=08000012
+Cycle 32: PC=00000048, Instruction=08000012
+Cycle 33: PC=00000048, Instruction=08000012
+Cycle 34: PC=00000048, Instruction=08000012
+Cycle 35: PC=00000048, Instruction=08000012
+Cycle 36: PC=00000048, Instruction=08000012
+Cycle 37: PC=00000048, Instruction=08000012
+Cycle 38: PC=00000048, Instruction=08000012
+Cycle 39: PC=00000048, Instruction=08000012
+Cycle 40: PC=00000048, Instruction=08000012
+Cycle 41: PC=00000048, Instruction=08000012
+Cycle 42: PC=00000048, Instruction=08000012
+Cycle 43: PC=00000048, Instruction=08000012
+Cycle 44: PC=00000048, Instruction=08000012
+Cycle 45: PC=00000048, Instruction=08000012
+Cycle 46: PC=00000048, Instruction=08000012
+Cycle 47: PC=00000048, Instruction=08000012
+Cycle 48: PC=00000048, Instruction=08000012
+Cycle 49: PC=00000048, Instruction=08000012
+Cycle 50: PC=00000048, Instruction=08000012
+
+========================================
+MIPS Processor Simulation Completed
+========================================
+Total Cycles: 50
+Total Time: 515000
+Waveform saved to: mips_waveform.vcd
+Cycle 51: PC=00000048, Instruction=08000012
