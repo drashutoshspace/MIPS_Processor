@@ -1,4 +1,4 @@
-# MIPS Processor Verilog Project
+# MIPS Processor Verilog Project Test
 
 A single-cycle MIPS processor implementation in Verilog for Vivado.
 
